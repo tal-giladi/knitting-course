@@ -1,0 +1,75 @@
+<!doctype html>
+<!--
+  Preview only. docsify renders this repository in a browser so a lesson can be read as it will look
+  in the Academy. Nothing a learner needs depends on this file: the Academy imports the markdown,
+  the quizzes and the labs directly, and the course works with this file deleted.
+
+  Requires `.nojekyll` beside it, or GitHub Pages' Jekyll build drops `_sidebar.md` — the file the
+  whole table of contents comes from.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Knitting from Zero</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+    />
+    <style>
+      /* GitHub alerts are used throughout the course; docsify does not style them, so the
+         reference pages and the kit worksheet would otherwise read as flat grey blocks. */
+      .markdown-section blockquote {
+        border-radius: 6px;
+        padding: 0.6rem 0.9rem;
+        border-left: 4px solid #8a8a8a;
+        background: #f6f6f6;
+        color: #333;
+      }
+      .markdown-section blockquote > p {
+        margin: 0.35rem 0;
+      }
+      .markdown-section blockquote p:first-child strong:first-child {
+        display: block;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        font-size: 0.78rem;
+        margin-bottom: 0.15rem;
+      }
+      .markdown-section blockquote.tip,
+      .markdown-section blockquote:has(> p > strong:first-child:only-child) {
+        border-left-color: #2a6f97;
+      }
+      .markdown-section table {
+        display: table;
+        width: 100%;
+      }
+      /* The diagrams carry their own light card, so give them a little room to breathe. */
+      .markdown-section img[src$=".svg"] {
+        max-width: 100%;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">Loading…</div>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2/dist/docsify-katex.min.js"></script>
+    <script>
+      window.$docsify = {
+        name: "Knitting from Zero",
+        repo: "https://github.com/tal-giladi/knitting-course",
+        loadSidebar: true,
+        subMaxLevel: 2,
+        auto2top: true,
+        // The quiz YAML is not part of the preview: the Academy renders those, not docsify.
+        search: { placeholder: "Search lessons", noData: "No results" },
+        katex: { throwOnError: false },
+        relativePath: false,
+      };
+    </script>
+  </body>
+</html>
