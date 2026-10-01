@@ -1,0 +1,59 @@
+- id: q1
+  question: >-
+    A knitted rectangle will not lie flat: both side edges curl inwards and the piece slowly rolls
+    into a tube. What is causing this?
+  options:
+    - The two faces of the fabric are different lengths, so the fabric has to bend.
+    - The stitches are too tight, so the fabric is pulling itself in as it dries.
+    - The bind-off was too loose, so the edges have drawn in towards the middle of the piece.
+    - The yarn is too slippery, so the stitches keep sliding along the needle as you work.
+  correct: 0
+  explanation: >-
+    Flat fabric needs its two faces to measure the same, because flat means the edges span the same
+    distance. Knits are wider than purls, so stockinette's knit face is the longer one, and a
+    longer face has to go on the outside of a curve. Tension and bind-off tightness change the
+    size of a piece but not this behaviour.
+
+- id: q2
+  question: >-
+    You want a pocket that must lie flat against a knitted body but still stretch a little. Which
+    pattern and reasoning is right?
+  options:
+    - Garter, because it lies completely flat, and because flatness is the only property that matters.
+    - Purl on every row, because the bumps show the stitch, and because purls always stretch.
+    - Seed stitch, because it is balanced so it lies flat, and it also stretches back.
+    - Stockinette, because it is smooth against the body and its curl will hold it flat.
+  correct: 2
+  explanation: >-
+    You need two properties, so you look for a pattern that has both: balance for flatness, and a
+    mix of knits and purls for elasticity. Garter is flat but not very elastic, and stockinette
+    brings the curl that flatness is meant to prevent, so both fail on one requirement or the other.
+
+- id: q3
+  question: >-
+    Your stockinette swatch curls, and you check your gauge and find it is looser than the pattern
+    asked for. What has gone wrong?
+  options:
+    - Nothing. Curl is caused by loose stitches, so tighter stitches are the correct fix.
+    - Nothing. A smaller needle makes the fabric tighter, which will reduce the curl.
+    - You have changed the size of the piece to fix something that gauge was never causing.
+    - You have fixed the size problem and the curl together, so both are now solved.
+  correct: 3
+  explanation: >-
+    Gauge decides size and the stitch pattern decides behaviour, and keeping the two apart is the
+    point of this lesson. Curl comes from one face of the fabric being longer than the other, which
+    no change of needle can alter, so the piece ends up the wrong size and still curled.
+
+- id: q4
+  question: >-
+    Which of these stitch patterns will produce a fabric that lies flat?
+  options:
+    - Knit one row, purl the next, all the way up the piece.
+    - Knit every row, so both faces show the same mixture of V shapes and bumps.
+    - Purl every row, with no knit rows anywhere in the piece.
+    - Knit ten rows, then purl ten rows, then repeat the two blocks.
+  correct: 1
+  explanation: >-
+    A fabric lies flat when its two faces measure the same. Knitting every row gives two equivalent
+    faces, so neither is longer. Every alternative here puts all the knits on one face and all the
+    purls on the other, so they are unbalanced however the rows are arranged, and they all curl.

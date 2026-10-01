@@ -47,9 +47,30 @@ a missing one is an import error.
 - [x] `assessments/module-01-quiz.md` + `.quiz.yaml`
 - [x] `assessments/module-02-quiz.md` + `.quiz.yaml`
 - [x] `assessments/module-03-quiz.md` + `.quiz.yaml`
-- [ ] **`check-course` reports 0 problems** ← the gate for asking Tal to review
+- [x] **`check-course` reports 0 problems** — verified 2026-10-01:
+      `Knitting from Zero: 5 modules, 4 lessons, 7 quiz files, 40 questions (A-D 10/10/10/10), 0 problems`
 - [ ] Tal's review of tone, depth and diagram style
 - [ ] `BUILD_PROGRESS.md` updated with the review outcome
+
+### Known deviations to fix when the modules are completed
+
+These are tracked, not forgotten. None of them breaks the import.
+
+1. **`assessments/module-01-quiz.quiz.yaml` tests lessons 01.2-01.5, which are not written yet.** The
+   questions were written from the `curriculum/plan.md` §7 outlines, so whoever writes those four
+   lessons has to land on the same conclusions: pale smooth worsted wool as the beginner default
+   (q1), label reading — length, ply, fibre (q2), tension from the yarn path and not from grip
+   (q3), a cast-on being only the first row and therefore redoable (q4), the right side showing
+   `V`s (q6). Two further questions, on laddering a dropped stitch (q5) and on a needle being too
+   large for the yarn (q7), belong to Modules 5 and 6. Tighten the quiz when 01.2-01.5 land.
+2. **The Module 1 quiz page links only lesson 01.1.** Lessons 01.2-01.5 are named in plain text,
+   because a link to a missing file is an import error. Re-link them once they exist.
+3. **`lessons/module-02/lesson-01.md` has `prerequisites: ["01.1"]`** rather than `["01.5"]`, because
+   01.5 does not exist. Change it to `["01.5"]` when Module 1 is complete, and add a sentence saying
+   the cast-on from 01.5 is assumed.
+4. **Lesson lengths.** 01.1 is 201 lines (~2,340 words, 11-12 minutes at 200 wpm) against a stated
+   10. The four derived consequences and the "check your work" exercises were kept in preference to
+   hitting the line count; either accept the longer reading time or cut content. Tal's call.
 
 ### Phase 3+ — the rest of the course (not started)
 

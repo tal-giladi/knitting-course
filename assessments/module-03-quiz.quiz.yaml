@@ -1,0 +1,126 @@
+- id: q1
+  question: >-
+    A beginner is told to "knit one row, purl the next" and is surprised when the finished
+    rectangle rolls into a tube. Which explanation would actually help them?
+  options:
+    - The fabric is unbalanced, so its two faces measure differently and it has to bend.
+    - The yarn was knitted too loosely, so the edges have drawn in as the piece dried.
+    - The bind-off was too tight, so the top and bottom edges have pulled inwards.
+    - The stitches need blocking, so pinning the piece flat will stop the curl for good.
+  correct: 0
+  explanation: >-
+    Knits are wider than purls, so a fabric made of knit rows backed by purl rows has one face
+    longer than the other, and a longer face has to go on the outside of a curve. That is a
+    property of the fabric, and it is why the same recipe produces a rolled scarf and a hat that
+    holds its shape.
+
+- id: q2
+  question: >-
+    You purl a row and the fabric looks correct on the right side, but it measures narrower than
+    the knit row above it at the same stitch count. What is the most likely explanation?
+  options:
+    - The purl row was worked with a smaller needle, so the stitches sat closer together.
+    - The yarn was wrapped more tightly around the fingers, making the whole row firmer.
+    - You lost a stitch and replaced it, so the two rows no longer hold the same number.
+    - The row is correct, because a purl row is always narrower than a knit row.
+  correct: 3
+  explanation: >-
+    Purl stitches sit closer together across the row than knits do, so equal counts of the two
+    give different widths. That single fact is the seed of the whole curl explanation, and it is
+    the reason a purl row that is much narrower than expected points to a yarn that stayed behind
+    and twisted the loop.
+
+- id: q3
+  question: >-
+    A pattern tells you to knit a flat, wide scarf. The pattern also says to knit one row and purl
+    the next. What should you do?
+  options:
+    - Follow the pattern exactly, because the stitch counts matter more than the fabric behaviour.
+    - Follow it, then block the piece firmly so that the finished scarf lies flat.
+    - Change the stitch pattern to a balanced one, and keep the pattern's stitch counts.
+    - Use stockinette but add more rows, so the piece is long enough to hang straight.
+  correct: 2
+  explanation: >-
+    The two decisions are independent. Gauge and stitch counts decide the size, and the stitch
+    pattern decides whether the fabric lies flat, so a balanced pattern can be substituted without
+    changing any of the numbers. Neither blocking nor extra length touches the structural
+    imbalance that makes a stockinette piece curl.
+
+- id: q4
+  question: >-
+    You are about to purl the first stitch of a row and notice the yarn is still in front from the
+    end of the previous row. What is the likely result of carrying straight on?
+  options:
+    - The row begins with one knit stitch, so there is a V where the row should have bumps.
+    - The row begins with one purl stitch that is looser than the rest of the row.
+    - The first stitch is skipped, so the row ends with one stitch fewer than the row below.
+    - The yarn has to be moved back before the stitch can be worked at all.
+  correct: 0
+  explanation: >-
+    With the yarn already in front, the natural entry produces a knit rather than a purl, and one
+    knit in a row of purls is easy to spot and easy to fix on the next row. This is the single
+    most common purling error at the turn, which is why counting and looking at the fabric catch
+    it immediately.
+
+- id: q5
+  question: >-
+    Your hat body is knitted in stockinette and the tube holds its shape nicely, but the brim edge
+    looks untidy because the fabric curls away from the face. What is the best response?
+  options:
+    - Re-knit the whole hat in garter, because garter lies completely flat everywhere.
+    - Change the brim to a balanced rib, and leave the stockinette body as it is.
+    - Block the hat harder, so the brim is pulled into a flat shape before drying.
+    - Use a smaller needle for the brim, so the stitches there are tighter and hold the edge.
+  correct: 1
+  explanation: >-
+    A rib brim is flat because it is balanced, and it still stretches, which is what a brim over a
+    head needs. The stockinette body is doing its job well, since a curled tube grips rather than
+    stands away, so the fix belongs at the brim alone. Neither a change of needle nor blocking
+    alters the balance of a fabric.
+
+- id: q6
+  question: >-
+    Which statement about the relationship between a knit and a purl is correct?
+  options:
+    - They are two different loops, and the purl loop is always the smaller of the two.
+    - They are the same stitch, and the only difference is how loose the yarn is held.
+    - They are the same stitch, and the only difference is the size of needle used.
+    - They are the same loop drawn through from opposite sides, showing a V from one and a bump from the other.
+  correct: 3
+  explanation: >-
+    One loop has two faces, and the direction you draw it through decides which face points at you.
+    The width does differ between a knit row and a purl row, but that is a consequence of the
+    direction, not a difference in the loop itself, which is why the two are best understood as
+    one stitch rather than two.
+
+- id: q7
+  question: >-
+    A finished knitted object has no label. You want to know which side is the right side. What is
+    the most reliable way to tell?
+  options:
+    - Look for the bumpier face, because that is the purl face, which sits on the outside of any curl.
+    - Look for the face with horizontal ridges, because purls always make a horizontal ridge.
+    - Look for the face that is darker, because the right side is always the shaded side.
+    - Look for the V shapes, because that is the knit face, which sits on the outside of any curl.
+  correct: 3
+  explanation: >-
+    Knit stitches show as V shapes and purl stitches as bumps, and the longer knit face has to be on
+    the outside of any curl, so the V side and the outside are the same side. That makes it a
+    one-glance identification on any curled piece, which is how a finished object can be
+    recognised long after the label is gone.
+
+- id: q8
+  question: >-
+    You are choosing a stitch pattern for a pocket that must lie flat against a knitted body but
+    still stretch a little. Which is the best reasoning?
+  options:
+    - Choose stockinette, because it is smooth against the body and the curl will pull it flat.
+    - Choose garter, because it lies flat and because flatness is the only property that matters.
+    - Choose seed stitch, because it is balanced so it lies flat, and it also stretches back.
+    - Choose rib, because rib is the stretchiest of all fabrics and stretch is the main requirement.
+  correct: 2
+  explanation: >-
+    Two requirements, two properties, and you look for a pattern that has both: balance for
+    flatness and a knit-purl mix for elasticity. Seed satisfies both, rib is flat and elastic but
+    the reasoning that only flatness matters ignores the stretch requirement, and stockinette
+    brings the curl that flatness is meant to avoid.

@@ -99,13 +99,12 @@ the patterns are written in; "mirrored" is what you do instead.
   it is comfortable; only the yarn path needs a decision.
 - **Avoid tight grip as a workaround.** Many left-handers knit with a tighter grip because they
   are compensating for an awkward method. The fix is a different method, not a tighter hand — and
-  tight hands are how hands get hurt. See [14.1](../lessons/module-14/lesson-01.md).
-- **Take breaks before you feel you need them**, not after. See the comfort notes in every
-  practice lesson.
+  tight hands are how hands get hurt. See lesson 14.1.
+- **Take breaks before you feel you need them**, not after. Lesson 14.1 covers comfort properly.
 - **A crochet hook helps everyone.** Making dropped stitches is much easier with one, and it is a
   left-hander's natural grip, not a workaround.
 
 ---
 
-Related: [01.4 · Holding yarn and needles](../lessons/module-01/lesson-04.md) for the first,
-hands-on introduction, and the [glossary](../glossary.md) for terms.
+Related: lesson 01.4 is the first, hands-on introduction to holding yarn and needles, and the
+[glossary](../glossary.md) has the terms.

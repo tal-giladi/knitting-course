@@ -1,0 +1,126 @@
+- id: q1
+  question: >-
+    A knitted panel hangs in a wide fan, wider at the bottom edge than at the top. The stitch count
+    is correct. What has most likely happened?
+  options:
+    - The edge stitches were worked looser than the middle ones on every single row.
+    - The cast-on was too loose, letting the whole piece spread out as it grew.
+    - The yarn was too slippery, so the stitches slid along the needle and widened.
+    - The panel was blocked on a flat surface, which stretched it out sideways.
+  correct: 0
+  explanation: >-
+    A fabric that fans out while keeping the right stitch count has stitches of different sizes,
+    and the usual pattern is looser edges. Speed at the ends of rows and a rush after turning are
+    the common causes. A loose cast-on would affect the width of the first rows, not gradually
+    widen the bottom, and blocking cannot add width that was never knitted.
+
+- id: q2
+  question: >-
+    You cast on 24 stitches and, four rows in, you count 25. You have not added or dropped anything
+    deliberately. What does the extra stitch mean?
+  options:
+    - A stitch from the cast-on unravelled and re-formed higher up, changing the count.
+    - You worked a yarn-over by accident, which leaves a gap and one extra stitch on the row.
+    - The row was worked with a smaller needle, which makes stitches sit further apart on the needle.
+    - The previous row was stretched while being measured, which widened it without adding stitches.
+  correct: 1
+  explanation: >-
+    An accidental yarn-over wraps the yarn around the needle instead of pulling it through a
+    stitch, and that extra loop becomes an extra stitch. It also leaves a visible hole, which is
+    the other half of its signature. Changing needle size or stretching a row changes how the same
+    stitches sit, but it can never change how many there are.
+
+- id: q3
+  question: >-
+    You knit your first ten rows noticeably tighter than you feel like knitting, because the
+    stitches felt loose as you made them. What will this do to the finished fabric?
+  options:
+    - Nothing. Tension only affects how the fabric feels in the hand, not how wide it measures.
+    - The fabric will grow wider every time it is washed, because tight yarn relaxes in water.
+    - The fabric will be the right width, but the stitches will be uneven from row to row.
+    - The fabric will be narrow, and it will stay narrow because rows cannot be added afterwards.
+  correct: 3
+  explanation: >-
+    Width is set by how many stitches you fit across the row, and too few stitches means fewer
+    stitches in the same width, so the fabric is narrow. Washing does relax fibres, but by a few
+    percent, not enough to undo a whole row of tight knitting. The reason to knit evenly rather
+    than tightly is that a narrow piece cannot be widened later.
+
+- id: q4
+  question: >-
+    Halfway along a row the right needle will not go into the next stitch, and the stitch looks
+    smaller and tighter than the ones either side of it. What is the right response?
+  options:
+    - Push harder, because a stitch that resists will eventually give way to the needle.
+    - Use a smaller needle for the rest of the row, so the tight stitch is not the exception.
+    - Push the stitches down the left needle to open the loop, and work that stitch more loosely.
+    - Skip the stitch and carry on, then add a stitch at the end of the row to replace it.
+  correct: 2
+  explanation: >-
+    A tight stitch opens up when the stitches below it are moved down the needle, and working it
+    more loosely restores an even row. Forcing the needle risks splitting the yarn, a smaller
+    needle makes the problem worse, and skipping a stitch loses count and leaves a visible gap
+    that has to be repaired later.
+
+- id: q5
+  question: >-
+    You turn a finished piece over and look at the side that was not facing you while you knitted
+    it. What should you see?
+  options:
+    - A row of V shapes, identical to the right side, because a stitch has no back.
+    - A row of holes, because the back of a loop is where the yarn enters.
+    - A row of diagonal lines, because the stitch legs cross at the back.
+    - A row of bumps, because the same loop seen from behind shows its rounded side.
+  correct: 3
+  explanation: >-
+    One loop has two faces, and the V you see on the right side is the same loop seen from the
+    other side as a bump. This is the single most useful thing to know for reading patterns, and
+    it is why a purl and a knit are two ways of working one stitch rather than two stitches.
+
+- id: q6
+  question: >-
+    You put the work down for a minute, come back, and the stitch count is one short. There is a
+    loose loop resting on the stitch below where a stitch used to be. What should you do?
+  options:
+    - Put the loose loop back on the needle now, tighten the neighbouring stitches, and carry on.
+    - Bind off immediately, because a lost stitch means the rest of the row will be wrong too.
+    - Knit an extra stitch into the gap now, which puts the count back where it should be.
+    - Unravel the whole row back to the cast-on and start the row again from the beginning.
+  correct: 0
+  explanation: >-
+    A slipped stitch is the most common accident in the first rows, and putting the loop straight
+    back on the needle repairs it completely. Adding a stitch changes the count without restoring
+    the stitch that was there, and unravelling a whole row for a single loop is a large repair for
+    a small problem.
+
+- id: q7
+  question: >-
+    A pattern tells you to cast on 44 stitches. You measure your swatch and find you get 20
+    stitches to 10 cm where the pattern expects 18. What should you do?
+  options:
+    - Cast on 44 as written, and expect the piece to come out slightly too wide.
+    - Cast on 40, because fewer stitches on a looser gauge gives the same width.
+    - Change to a smaller needle, swatch again, and recalculate the cast-on from the new gauge.
+    - Cast on 44 in a thicker yarn, so the extra stitches per centimetre cancel out.
+  correct: 2
+  explanation: >-
+    Stitches times width divided by gauge is the size, and every term in that calculation is
+    yours to change. Your gauge is looser than the pattern assumes, so the needle is the lever,
+    and the cast-on is recalculated from the gauge you actually achieved. Yarn cannot be swapped
+    on the cast-on row without swatching the new yarn as well.
+
+- id: q8
+  question: >-
+    You are six stitches from the end of a row and notice, on reading the fabric, that you purled
+    a stitch in the middle of what should be a knit row. What is the best response?
+  options:
+    - Carry on to the end of the row, because the error is on the wrong side and will not show.
+    - Undo back three stitches, purl that stitch as a knit, and carry on to the end of the row.
+    - Carry on, and on the next row work that stitch as a purl so the two faces match.
+    - Unravel the entire row back to the cast-on, then knit the whole row again carefully.
+  correct: 1
+  explanation: >-
+    A few stitches near the needle can be undone one at a time and reworked, which is the cheapest
+    possible repair. Matching the error on the next row is not a repair, because it converts a
+    single wrong stitch into a wrong stitch in two rows, and unravelling the whole row costs far
+    more than the error is worth.

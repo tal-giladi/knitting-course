@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A purl stitch and a knit stitch look completely different, yet they are made from the same loop
+    of yarn. Why?
+  options:
+    - Because a purl is knitted with a smaller needle, so the loop comes out smaller.
+    - Because they are two different loops, and a purl loop is the mirror of a knit loop.
+    - Because you draw the same loop through from the other side, which shows its other face.
+    - Because purls are worked with the yarn behind, which turns the loop inside out.
+  correct: 2
+  explanation: >-
+    A loop has a head and two legs, and which of those you see depends entirely on the direction
+    you drew it through. Knitting shows the two legs as a V, purling shows the rounded head as a
+    bump, and it is the same loop either way. This is why a fabric has two faces that are not
+    interchangeable.
+
+- id: q2
+  question: >-
+    You purl a whole row, then knit the next row, and the purl section measures narrower than the
+    knit section even though both rows have the same number of stitches. Why?
+  options:
+    - The purl row was worked with more tension, so the stitches were pulled tighter together.
+    - Purl stitches sit closer together across the row than knit stitches do.
+    - You lost a stitch at the edge of the purl row and made it up again on the next row.
+    - The needle stretched the row when you measured it, and the knit row recovered its shape.
+  correct: 1
+  explanation: >-
+    The same number of stitches occupies less width when they are purls, which means a purl row is
+    genuinely narrower at equal count. That difference is small on its own and is the reason a
+    stockinette fabric curls. A lost stitch would change the count, and tension changes the feel of
+    the fabric far more than its measured width.
+
+- id: q3
+  question: >-
+    A row of purls has been worked with the yarn in front of the needle. What goes wrong if the
+    yarn is left behind instead?
+  options:
+    - The new loop comes out twisted and narrower, so the row measures less than it should.
+    - The stitch comes out as a knit, so the row looks like a row of V shapes instead of bumps.
+    - The loop comes out too loose, and the row measures wider than the knit row above it.
+    - Nothing happens, because a purl and a knit are the same stitch either side of the needle.
+  correct: 0
+  explanation: >-
+    With the yarn behind, the loop is drawn through from the side that should be showing a V, so
+    the legs end up crossed. It looks convincing on the right side and is subtly wrong, which is
+    why a purl row that is narrower than expected is the symptom to trust rather than the one you
+    can see.
+
+- id: q4
+  question: >-
+    You are about to purl the first stitch of a new row and realise the working yarn is already in
+    front of the work. What is the most likely result if you carry on?
+  options:
+    - Nothing in particular, because the yarn is in the correct position for a purl.
+    - You knit that first stitch, so the row starts with one V where the rest are bumps.
+    - You skip that stitch, so the row has one stitch fewer than the row below.
+    - You have to unpick the whole row, because the stitch count no longer matches.
+  correct: 1
+  explanation: >-
+    With the yarn in front, the natural entry into the first stitch produces a knit, so the row
+    begins with a single V. It is the most common purling error at the turn and the easiest to
+    notice, because a lone V in a row of bumps is obvious. One stitch is fixed by knitting into
+    that stitch again on the next row.

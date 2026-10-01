@@ -4,8 +4,7 @@ Everything you need to plan the sweater, in the order you need it. Write in the 
 arithmetic on a calculator, and check each step before moving on. This worksheet is the difference
 between a sweater that fits and a sweater that fits a different person from you.
 
-Your measurements come from [11.1](../lessons/module-11/lesson-01.md); the geometry is in
-[11.3](../lessons/module-11/lesson-03.md).
+Your measurements come from lesson 11.1; the geometry is in lesson 11.3.
 
 ## 1 · Your gauge
 

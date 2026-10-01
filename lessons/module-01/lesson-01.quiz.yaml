@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    A knitted scarf comes apart when the end of the yarn is pulled. Which statement explains this?
+  options:
+    - Knitted fabric is a grid of separate squares, so pulling the end removes the squares.
+    - Each loop only hangs on the loop below it, so pulling an end unthreads the whole column.
+    - Knitted fabric is glued along the edges, and the glue let go.
+    - Wool fibres are short and fall apart when pulled.
+  correct: 1
+  explanation: >-
+    Every loop is threaded through the loop beneath it, so the fabric has no independent parts to
+    lose. Pull the end and the loops simply unthread in sequence, which is also why a dropped
+    stitch can be picked back up and why a cast-on can be redone.
+
+- id: q2
+  question: >-
+    You are holding a knitted panel and asking which face is the right side. On one face every
+    stitch looks like a V; on the other face every stitch looks like a small bump. What does that
+    tell you?
+  options:
+    - The panel was knitted twice, once for each face, and the two faces are separate layers.
+    - The bumps are loose loops still waiting to drop off, and the V face is the finished one.
+    - You are seeing the same loops from both sides, so each shows a V on one and a bump on the other.
+    - The yarn was doubled for strength, so every stitch is two strands knitted together.
+  correct: 2
+  explanation: >-
+    A loop has a front and a back, so the V face and the bump face are the same stitches seen from
+    opposite directions. That is exactly why the purl stitch, in lesson 03.1, is a knit stitch made
+    from the other side. Separate layers, loose bumps and doubled strands describe things knitting
+    never makes.
+
+- id: q3
+  question: >-
+    You hang a knitted panel by one corner and pull gently on the opposite bottom corner. The
+    panel holds. Which statement best explains why it holds there?
+  options:
+    - Each loop is locked tight around the loop below it with a knot.
+    - The fabric is double thickness, so two layers of yarn are sharing the pull.
+    - The yarn is wool, and wool fibres grip each other and refuse to let go.
+    - Every loop in a column sits inside the loop below it, so the pull is shared down the column.
+  correct: 3
+  explanation: >-
+    There is no knot anywhere in knitted fabric. Each loop simply passes through the loop below it,
+    so a downward pull is carried by every stitch in the column rather than by a few knots that
+    could be the weak point. A woven fabric is two sets of thread crossing, and wool does grip,
+    but friction alone is far weaker than a chain of stitches.
+
+- id: q4
+  question: >-
+    You have finished a row and notice that one stitch is missing from the needle. Which statement
+    explains what happened and why the damage can be repaired?
+  options:
+    - The stitch slipped off the needle but is still caught by the loop below, so it can go back on.
+    - A strand was cut in the middle of the fabric, so only a patch would repair the damage.
+    - The stitch was never knitted in the first row, so the cast-on must be taken off and redone.
+    - A loose stitch has pulled the row out of shape, so the row has to be unravelled and reknit.
+  correct: 0
+  explanation: >-
+    Nothing has been cut or lost. The stitch came off the needle and is still linked to the loop
+    beneath it, so the run of bars above it can be worked back one at a time and the stitch
+    returned to the needle (lesson 05.4). A cast-on mistake and an uneven row both look different:
+    one leaves a hole with a ladder, the other leaves no hole at all.

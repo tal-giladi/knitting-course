@@ -1,0 +1,129 @@
+- id: q1
+  question: >-
+    You are buying your first yarn and can choose between four balls of the same price: a fuzzy
+    mohair blend, a smooth dark brown wool, a smooth pale blue wool, and a smooth pale blue
+    acrylic. Which one makes your first rows easiest to see and to fix?
+  options:
+    - The smooth pale blue wool, because pale and smooth yarn shows every loop clearly.
+    - The fuzzy mohair blend, because the halo keeps the stitches warm.
+    - The smooth dark brown wool, because dark colours show off a stitch pattern best.
+    - The smooth pale blue acrylic, because acrylic is the easiest yarn to handle.
+  correct: 0
+  explanation: >-
+    A beginner has to see the stitches, and the two things that hide them are fuzz and darkness,
+    which is what lesson 01.2 is about. Wool also forgives uneven tension and behaves well when
+    washed, and acrylic is easy care but handles differently. None of that matters yet: picking
+    yarn you can see comes first.
+
+- id: q2
+  question: >-
+    A ball of yarn says "worsted weight, 100% wool, 4-ply, 180 m, recommended needle 5 mm (US
+    8)". You already own a 5 mm needle. What does the label still tell you that you need?
+  options:
+    - Nothing useful, because the recommended needle is the only decision the label helps with.
+    - That 180 m is the length of yarn in the ball, so you can judge how much you have to work with.
+    - That the yarn is 4-ply, so it will be the same thickness whatever needle you knit it on.
+    - That 100% wool means it can be machine washed at any temperature without shrinking.
+  correct: 1
+  explanation: >-
+    The length in the label tells you how much yarn exists, and that decides whether a project is
+    possible at all; a scarf needs roughly 200-300 m. Ply says how many strands were twisted
+    together, which is about strength and drape, not thickness, because the needle sets the
+    thickness. Wool shrinks in hot water, so the fibre is also a washing warning, not a promise.
+
+- id: q3
+  question: >-
+    Ten minutes into your first rows your hands ache, and the fabric you are making is much tighter
+    than the yarn it is made from. What is the likely cause, and what do you change?
+  options:
+    - The yarn is too slippery for the needle, so switch to a less slippery wool.
+    - The needle is the wrong size, so nothing will help until you change it.
+    - You are gripping the yarn too hard; loosen your grip and let the needle do the work.
+    - You are holding the work too far down the needles, so move it up towards the tips.
+  correct: 2
+  explanation: >-
+    Tension comes from the path the yarn takes through your fingers, not from squeezing it, so a
+    tight grip gives tight fabric and aching hands within minutes. A different needle size changes
+    how open the stitches sit, but it does not stop the ache. Loosen the grip, hold the needles
+    near the tips and the fabric relaxes.
+
+- id: q4
+  question: >-
+    You have cast on and can already tell the edge is far too tight for the thing you are making.
+    You have not worked a row yet. What do you do?
+  options:
+    - Knit a few rows anyway, because the tension usually corrects itself after a dozen rows.
+    - Work a slipped stitch at each end for a few rows, to hold the edge open.
+    - Add an extra stitch at each end, to make up for the tight edge.
+    - Take the cast-on off and do it again, because it is only the first row of loops.
+  correct: 3
+  explanation: >-
+    The cast-on is made from the same yarn as the fabric, in loops, with nothing built on top of
+    it yet, so it can be pulled off and replaced without wasting the yarn. The other three are
+    real techniques, but they are workarounds for an edge you can simply redo, and adding stitches
+    changes your count without fixing what is wrong.
+
+- id: q5
+  question: >-
+    Three rows below your needle there is a vertical run of loose horizontal bars, with a hole at
+    the top of it. What has happened, and what is the quickest fix?
+  options:
+    - A stitch dropped several rows back; work the bars up one at a time and put it back on the needle.
+    - A yarn-over made by accident; pick it up and carry on, with no other change needed.
+    - An uneven row caused by changing tension; block the piece once it is long enough.
+    - An edge stitch slipped off the needle; pick the edge stitches up from the fabric below.
+  correct: 0
+  explanation: >-
+    Each horizontal bar is one row's worth of that stitch, so the ladder tells you exactly how far
+    back the stitch fell. Working up from the oldest bar and returning the stitch to the needle
+    each time repairs it (lesson 05.4). A yarn-over has no bar above it, an uneven row has no
+    hole, and a dropped edge stitch leaves a gap that widens away from the needle.
+
+- id: q6
+  question: >-
+    A pattern says "with RS facing, work the next row". You are holding a knitted panel whose
+    stitches look like a field of small bumps. What do you do?
+  options:
+    - Carry on, because a panel of bumps is knitted on the right side of the fabric.
+    - Read the row from right to left instead, because the panel is the wrong way round.
+    - Turn the panel so the side with V shapes faces you, then work the row as written.
+    - Work the row anyway, because right side only changes which stitch you make, not the row.
+  correct: 2
+  explanation: >-
+    Knit stitches show as V shapes on the right side and as bumps on the wrong side, so a field of
+    bumps means you are looking at the back of the fabric. Turn the work and the instruction
+    applies. Which side faces you also decides the direction a row is read and the way decreases
+    lean, which is why every pattern tells you.
+
+- id: q7
+  question: >-
+    You finish your first swatch and the fabric is full of obvious holes and feels airy instead of
+    solid. You used a 5 mm needle because that is what the course recommends. What is the likely
+    explanation?
+  options:
+    - You work at a loose tension, and nothing about the needle size will change the fabric.
+    - The yarn is worsted weight, so 5 mm is already the right needle for it.
+    - The holes are the fabric stretching, and they will close up when the piece is blocked.
+    - The needle is too large for this yarn; a smaller one gives a denser, more solid fabric.
+  correct: 3
+  explanation: >-
+    The needle size sets how far apart the loops sit for a given yarn, so a bigger needle leaves
+    bigger holes. A smaller needle gives a denser fabric with less give, which is why the size on
+    the label is a starting point rather than a rule. Loose tension does make uneven fabric, but
+    airy holes on every stitch point at the needle.
+
+- id: q8
+  question: >-
+    A beginner knits twenty rows, then ties the yarn off at the end of the last row and stops,
+    without doing anything else. What happens next, and why?
+  options:
+    - Nothing; the last row is knitted, so the piece is finished.
+    - The open loops at the top unthread in turn, and the piece unravels back to the cast-on.
+    - The knot holds the last row, so the piece stays exactly as it is.
+    - The piece unravels from the cast-on, because that is the only loose edge on it.
+  correct: 1
+  explanation: >-
+    Every loop in that last row is anchored only by the loop beneath it, so with nothing closing
+    them they unthread from the top down. Binding off interlocks those loops and is the step that
+    makes the top edge permanent, which is why a piece is not finished until it is bound off
+    (lesson 02.4).

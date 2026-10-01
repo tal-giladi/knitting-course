@@ -84,10 +84,10 @@ increase or a yarn-over you did not mean.
 
 | It looks like | It is | Do this |
 |---|---|---|
-| A rolled-up stockinette rectangle | Unbalanced fabric | Leave it for a scarf, or add a border; see [03.2](../lessons/module-03/lesson-02.md) |
+| A rolled-up stockinette rectangle | Unbalanced fabric | Leave it for a scarf, or add a border; see lesson 03.2 |
 | Ribbing that looks tight near the cast-on | Ribbing needs a few rows to settle | Keep going; it opens out |
 | A hat that feels loose at the brim | Negative ease working as intended | Wash and block it; wool tightens |
-| A slight ridge at the start of a round | The jog | Move the round start; see [08.4](../lessons/module-08/lesson-04.md) |
+| A slight ridge at the start of a round | The jog | Move the round start; see lesson 08.4 |
 | A slightly wavy selvedge | The edge stitch was worked loosely every row | Use a slipped edge next time |
 
 ## Prevent it, do not fix it

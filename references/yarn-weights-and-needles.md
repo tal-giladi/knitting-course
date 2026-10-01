@@ -98,10 +98,9 @@ different dye lots are very slightly different colours, and a knitted fabric sho
 a visible line.
 
 For anything larger than a hat, buy enough yarn for the whole project **in one lot**, or at least
-alternate the lots as you knit. See [06.5](../lessons/module-06/lesson-05.md) for how to substitute
-safely.
+alternate the lots as you knit. Lesson 06.5 covers how to substitute safely.
 
 ---
 
 Related: the course's main weight, worsted / aran, is the one chosen for visibility and for
-forgiving mistakes — see [01.2](../lessons/module-01/lesson-02.md).
+forgiving mistakes — see lesson 01.2.

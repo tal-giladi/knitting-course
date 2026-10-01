@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    Your first row came out noticeably narrower at the left edge than in the middle. What is the
+    most likely cause?
+  options:
+    - The cast-on was worked too tightly, so the stitches at the start of the row are pulled in.
+    - You dropped a stitch at the beginning of the row, so that section of the edge is short.
+    - The needle is too large for this yarn, so the stitches opened up across the middle of the row.
+    - You purled the last few stitches by accident, which pulled the row in at the end.
+  correct: 0
+  explanation: >-
+    A tight cast-on compresses the first stitches, and that compression is carried along the whole
+    row, so the row is narrower at that edge. The fix is to spread the cast-on stitches along the
+    needle before starting. A dropped stitch would show as a loose loop, and a purl in a knit row
+    shows as a visible bump rather than a change in width.
+
+- id: q2
+  question: >-
+    In a finished row, one stitch is narrower than all the others and has a faint diagonal line
+    across it. What went wrong when that stitch was worked?
+  options:
+    - A larger needle was used for that stitch, so it simply came out a different size.
+    - The needle went into the back half of the loop instead of the front, which twisted the stitch.
+    - That stitch was cast on more loosely than the rest, and it tightened up during the first row.
+    - A yarn-over was worked on the row below, which pulled the stitch above it narrower.
+  correct: 1
+  explanation: >-
+    A loop has a front and a back half, and entering the back half crosses the stitch legs over
+    each other. The result looks normal on that row and only reveals itself later as a narrow,
+    slightly skewed stitch, which is why it is worth reading your own knitting rather than trusting
+    the row you just finished.
+
+- id: q3
+  question: >-
+    Why does a knit stitch make a V shape on the side facing you, when a purl of the same loop
+    makes a bump?
+  options:
+    - Because the right needle is always slightly larger than the left, which flattens the loop.
+    - Because the working yarn lies over the top of the stitch and covers the two legs.
+    - Because the old stitch's two legs end up pulled down inside the new loop, one down each side.
+    - Because the work is turned over at the end of every row, which flips each loop over.
+  correct: 2
+  explanation: >-
+    Two legs hanging inside a loop, with the loop's head up on the needle, is the shape of a V, so
+    that is what you see. A purl pulls the same loop through from the other side, which puts the
+    bump on your side and the V on the far side. This is why a knit and a purl are two faces of one
+    stitch rather than two different stitches.
+
+- id: q4
+  question: >-
+    You are 8 stitches from the end of a row of 60 and realise the previous row finished with 59
+    stitches instead of 60. What should you do?
+  options:
+    - Finish the row as you are and correct the count on the next row instead.
+    - Bind off now, then pick the missing stitch up from the row below.
+    - Work an extra stitch somewhere to make this row finish with 60 as well.
+    - Undo back to the last row whose count was right, find the cause, then re-knit that row.
+  correct: 3
+  explanation: >-
+    The wrong count was created earlier, and the cause is still in the fabric. Undoing to the last
+    good row is the only fix that repairs the cause, and a dropped stitch is usually a one-minute
+    repair. Adding a stitch hides the symptom and leaves a fabric with a wrong number of stitches
+    in it, which then never matches the pattern.

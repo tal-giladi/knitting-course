@@ -115,5 +115,5 @@ broken one, and this course only publishes patterns that have been knitted at le
 
 ---
 
-Related: [13.5](../lessons/module-13/lesson-05.md) walks through filling this in, and
-[10.1](../lessons/module-10/lesson-01.md) is the same structure seen from the reading side.
+Related: lesson 13.5 walks through filling this in, and lesson 10.1 is the same structure seen
+from the reading side.

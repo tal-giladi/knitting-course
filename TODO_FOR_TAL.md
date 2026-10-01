@@ -28,6 +28,16 @@ Three questions, and my answers so you can overrule them:
 3. **Anything wrong with the kit or the order?** The course assumes one 5 mm circular needle for
    everything.
 
+Two things you should know about rather than discover later:
+
+- **Lesson 01.1 is longer than its stated 10 minutes** — about 11-12, because the four consequences
+  derived from "one strand" and the check-your-work exercises were kept rather than cut to hit a
+  line count. Say the word and I will cut it; it means losing a consequence or an exercise.
+- **The Module 1 quiz asks about lessons that are not written yet.** It was built from the plan's
+  outlines for 01.2-01.5, and two of its eight questions (a dropped stitch, a needle too large for
+  the yarn) really belong to Modules 5 and 6. It imports cleanly and the questions are sound, but
+  I will tighten it when those lessons are written.
+
 ## What is decided and does not need you
 
 These are settled from your answers on 2026-10-01 and are recorded in `BUILD_PROGRESS.md`:
