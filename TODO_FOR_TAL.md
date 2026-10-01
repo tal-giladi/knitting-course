@@ -56,8 +56,14 @@ pilot-first scope, verified YouTube links, all three simulations, markdown + SVG
 
 ## Housekeeping you will need to do
 
-- [ ] **Git remote.** No remote is set up. The course needs to be pushed to
-      `tal-giladi/knitting-course` (public) for the Academy to import it.
+- [x] **Git remote.** Pushed 2026-10-01 to **`tal-giladi/knitting-course`**, public, branch `main`,
+      4 commits. The importer reads the public repo directly, so no token is needed.
+- [x] **Online preview.** GitHub Pages is live and building from `main`:
+      **<https://tal-giladi.github.io/knitting-course/>**
+      The repository is the single source of truth — every push updates it, so you can send people
+      there to read a lesson. Two things do not appear in the preview: the quizzes, which live in
+      `.quiz.yaml` files that only the Academy renders, and the lab printables, which are downloads
+      rather than pages.
 - [ ] **Register the course** in the Academy from `curriculum/course-details.md` when the course
       is complete, not now.
 - [ ] **Decide the slug.** Suggested: `knitting`.
