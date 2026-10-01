@@ -1,0 +1,12 @@
+# Nothing learner-facing is generated. The course is plain markdown, YAML and SVG.
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Local preview only (docsify); optional, nothing a learner needs depends on it.
+node_modules/
+
+# Secrets: this course is public, but keep the habit.
+.env
+.env.local

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="680" height="400" role="img" aria-labelledby="t d">
+  <title id="t">How loops hold each other up</title>
+  <desc id="d">Magnified view of three yarn loops interlocked in a vertical chain. The middle loop passes through the loop below it, and the top loop passes through the middle one, so pulling the bottom loop downwards pulls the whole column apart.</desc>
+
+  <!-- card -->
+  <rect x="8" y="8" width="664" height="384" rx="10" fill="#FAF8F5" stroke="#D8D2C8" stroke-width="2"/>
+
+  <!-- heading -->
+  <text x="40" y="46" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#22252A">One continuous yarn, pulled through itself</text>
+  <text x="40" y="68" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6B6E76">Magnified about ten times. A real stitch is roughly 5 mm wide.</text>
+
+  <!-- ===== the chain of loops ===== -->
+  <g>
+    <!-- 1: bottom link, the oldest -->
+    <ellipse cx="180" cy="300" rx="52" ry="32" fill="none" stroke="#6A994E" stroke-width="7"/>
+    <!-- 2: middle link, drawn in front (halo, then ink) -->
+    <ellipse cx="180" cy="228" rx="32" ry="52" fill="none" stroke="#FAF8F5" stroke-width="17"/>
+    <ellipse cx="180" cy="228" rx="32" ry="52" fill="none" stroke="#6A994E" stroke-width="7"/>
+    <!-- 3: top link, the newest -->
+    <ellipse cx="180" cy="156" rx="52" ry="32" fill="none" stroke="#FAF8F5" stroke-width="17"/>
+    <ellipse cx="180" cy="156" rx="52" ry="32" fill="none" stroke="#6A994E" stroke-width="7"/>
+  </g>
+
+  <!-- pull-down arrow: the unravelling direction -->
+  <g>
+    <line x1="180" y1="334" x2="180" y2="342" stroke="#B23A48" stroke-width="4"/>
+    <polygon points="180,352 172,336 188,336" fill="#B23A48"/>
+  </g>
+  <text x="180" y="370" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B23A48" text-anchor="middle">pull down</text>
+
+  <!-- ===== numbered annotations ===== -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="330" cy="156" r="15" fill="#7A5195"/>
+    <text x="330" y="162" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="356" y="150" font-size="15" fill="#22252A">The new loop is pulled</text>
+    <text x="356" y="171" font-size="15" fill="#22252A"><tspan font-weight="bold">up through</tspan> the loop below,</text>
+    <text x="356" y="192" font-size="15" fill="#22252A">and that is a stitch.</text>
+
+    <circle cx="330" cy="228" r="15" fill="#7A5195"/>
+    <text x="330" y="234" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="356" y="222" font-size="15" fill="#22252A">It is <tspan font-weight="bold">one continuous strand</tspan>,</text>
+    <text x="356" y="243" font-size="15" fill="#22252A">not separate pieces stacked</text>
+    <text x="356" y="264" font-size="15" fill="#22252A">on top of each other.</text>
+
+    <circle cx="330" cy="300" r="15" fill="#7A5195"/>
+    <text x="330" y="306" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="356" y="294" font-size="15" fill="#22252A">Each loop only hangs on the</text>
+    <text x="356" y="315" font-size="15" fill="#22252A">one below, so pull the bottom</text>
+    <text x="356" y="336" font-size="15" fill="#22252A">and the column comes apart.</text>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 390" width="680" height="390" role="img" aria-labelledby="t d">
+  <title id="t">A knit stitch from both sides</title>
+  <desc id="d">Two panels of the same knitted fabric. On the right side, knit stitches appear as V shapes. On the wrong side, the very same stitches appear as small rounded bumps. A stitch is a V from one side and a bump from the other.</desc>
+
+  <rect x="8" y="8" width="664" height="374" rx="10" fill="#FAF8F5" stroke="#D8D2C8" stroke-width="2"/>
+
+  <text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#22252A">The same stitch seen from both sides</text>
+  <text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6B6E76">A knit is a V from one side and a bump from the other. Learn to spot both.</text>
+
+  <!-- ======================= RIGHT SIDE ======================= -->
+  <g>
+    <text x="180" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#22252A" text-anchor="middle">RIGHT SIDE (RS)</text>
+
+    <g stroke="#3D405B" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 76 128 L 88 154 L 100 128"/>
+      <path d="M 120 128 L 132 154 L 144 128"/>
+      <path d="M 164 128 L 176 154 L 188 128"/>
+      <path d="M 208 128 L 220 154 L 232 128"/>
+      <path d="M 76 182 L 88 208 L 100 182"/>
+      <path d="M 120 182 L 132 208 L 144 182"/>
+      <path d="M 164 182 L 176 208 L 188 182"/>
+      <path d="M 208 182 L 220 208 L 232 182"/>
+      <path d="M 76 236 L 88 262 L 100 236"/>
+      <path d="M 120 236 L 132 262 L 144 236"/>
+      <path d="M 164 236 L 176 262 L 188 236"/>
+      <path d="M 208 236 L 220 262 L 232 236"/>
+    </g>
+
+    <path d="M 88 262 L 74 282 L 100 282 Z" fill="none"/>
+    <text x="196" y="284" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#7A5195" text-anchor="middle">V shapes = knits</text>
+  </g>
+
+  <!-- ======================= WRONG SIDE ======================= -->
+  <g>
+    <text x="500" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#22252A" text-anchor="middle">WRONG SIDE (WS)</text>
+
+    <g stroke="#3D405B" stroke-width="4.5" stroke-linecap="round" fill="none">
+      <path d="M 396 142 A 12 8 0 0 1 420 142"/>
+      <path d="M 440 142 A 12 8 0 0 1 464 142"/>
+      <path d="M 484 142 A 12 8 0 0 1 508 142"/>
+      <path d="M 528 142 A 12 8 0 0 1 552 142"/>
+      <path d="M 396 196 A 12 8 0 0 1 420 196"/>
+      <path d="M 440 196 A 12 8 0 0 1 464 196"/>
+      <path d="M 484 196 A 12 8 0 0 1 508 196"/>
+      <path d="M 528 196 A 12 8 0 0 1 552 196"/>
+      <path d="M 396 250 A 12 8 0 0 1 420 250"/>
+      <path d="M 440 250 A 12 8 0 0 1 464 250"/>
+      <path d="M 484 250 A 12 8 0 0 1 508 250"/>
+      <path d="M 528 250 A 12 8 0 0 1 552 250"/>
+    </g>
+
+    <text x="474" y="284" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#7A5195" text-anchor="middle">Bumps = the back of a knit</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="340" y1="88" x2="340" y2="300" stroke="#D8D2C8" stroke-width="2"/>
+
+  <text x="340" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#22252A" text-anchor="middle">A purl is the same stitch worked from the other side —</text>
+  <text x="340" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#22252A" text-anchor="middle">so a purl makes a bump here and a V there.</text>
+</svg>

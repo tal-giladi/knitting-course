@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Stockinette curls, garter lies flat</title>
+  <desc id="d">Two panels comparing knitted fabrics. On the left, stockinette alternates a row of V-shaped knits with a row of purl bumps, and both side edges curl inwards and downwards. On the right, garter stitch is made of V-shaped knits in every single row, and its edges stay straight and flat. Garter's two faces look the same, so it has no preferred direction to curl in.</desc>
+
+  <rect x="8" y="8" width="664" height="284" rx="10" fill="#FAF8F5" stroke="#D8D2C8" stroke-width="2"/>
+
+  <text x="40" y="42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#22252A">Stockinette curls. Garter lies flat.</text>
+  <text x="40" y="63" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6B6E76">Same yarn, same needles, same tension. The stitch pattern is the only difference.</text>
+
+  <!-- ======================= STOCKINETTE ======================= -->
+  <g>
+    <text x="180" y="94" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#22252A" text-anchor="middle">STOCKINETTE</text>
+    <text x="180" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6B6E76" text-anchor="middle">knit a row, purl a row</text>
+
+    <g stroke="#3D405B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 84 132 L 96 154 L 108 132"/>
+      <path d="M 124 132 L 136 154 L 148 132"/>
+      <path d="M 164 132 L 176 154 L 188 132"/>
+      <path d="M 204 132 L 216 154 L 228 132"/>
+      <path d="M 244 132 L 256 154 L 268 132"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="4" stroke-linecap="round" fill="none">
+      <path d="M 84 176 A 12 8 0 0 1 108 176"/>
+      <path d="M 124 176 A 12 8 0 0 1 148 176"/>
+      <path d="M 164 176 A 12 8 0 0 1 188 176"/>
+      <path d="M 204 176 A 12 8 0 0 1 228 176"/>
+      <path d="M 244 176 A 12 8 0 0 1 268 176"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 84 200 L 96 222 L 108 200"/>
+      <path d="M 124 200 L 136 222 L 148 200"/>
+      <path d="M 164 200 L 176 222 L 188 200"/>
+      <path d="M 204 200 L 216 222 L 228 200"/>
+      <path d="M 244 200 L 256 222 L 268 200"/>
+    </g>
+
+    <path d="M 78 226 C 62 232, 60 248, 76 252" fill="none" stroke="#B23A48" stroke-width="3.5" stroke-linecap="round"/>
+    <polygon points="84,252 70,245 71,257" fill="#B23A48"/>
+    <path d="M 274 226 C 290 232, 292 248, 276 252" fill="none" stroke="#B23A48" stroke-width="3.5" stroke-linecap="round"/>
+    <polygon points="270,252 284,245 283,257" fill="#B23A48"/>
+    <text x="180" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B23A48" text-anchor="middle">edges curl inwards</text>
+  </g>
+
+  <line x1="340" y1="82" x2="340" y2="278" stroke="#D8D2C8" stroke-width="2"/>
+
+  <!-- ======================= GARTER ======================= -->
+  <g>
+    <text x="500" y="94" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#22252A" text-anchor="middle">GARTER</text>
+    <text x="500" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6B6E76" text-anchor="middle">knit every row</text>
+
+    <g stroke="#3D405B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 404 132 L 416 154 L 428 132"/>
+      <path d="M 444 132 L 456 154 L 468 132"/>
+      <path d="M 484 132 L 496 154 L 508 132"/>
+      <path d="M 524 132 L 536 154 L 548 132"/>
+      <path d="M 564 132 L 576 154 L 588 132"/>
+      <path d="M 404 170 L 416 192 L 428 170"/>
+      <path d="M 444 170 L 456 192 L 468 170"/>
+      <path d="M 484 170 L 496 192 L 508 170"/>
+      <path d="M 524 170 L 536 192 L 548 170"/>
+      <path d="M 564 170 L 576 192 L 588 170"/>
+      <path d="M 404 208 L 416 230 L 428 208"/>
+      <path d="M 444 208 L 456 230 L 468 208"/>
+      <path d="M 484 208 L 496 230 L 508 208"/>
+      <path d="M 524 208 L 536 230 L 548 208"/>
+      <path d="M 564 208 L 576 230 L 588 208"/>
+    </g>
+
+    <line x1="398" y1="126" x2="398" y2="234" stroke="#6A994E" stroke-width="3"/>
+    <line x1="594" y1="126" x2="594" y2="234" stroke="#6A994E" stroke-width="3"/>
+    <text x="500" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6A994E" text-anchor="middle">edges stay straight</text>
+  </g>
+</svg>

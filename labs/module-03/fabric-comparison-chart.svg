@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" width="700" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Fabric comparison chart</title>
+  <desc id="d">A six-cell printable reference. The knit stitch appears as a V on the right side. The purl stitch is the same stitch seen from the other side and appears as a bump. Stockinette, made by knitting one row and purling the next, is smooth but curls at the edges. Garter, knitted every row, lies flat. One by one rib is flat and stretchy. Seed stitch, alternating a knit and a purl in every row, is flat, bumpy and very stretchy.</desc>
+
+  <rect x="8" y="8" width="684" height="544" rx="10" fill="#FAF8F5" stroke="#D8D2C8" stroke-width="2"/>
+
+  <text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#22252A">Fabric comparison chart — print it and keep it beside your swatches</text>
+  <text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6B6E76">Same yarn, same needles, same tension in every cell. Only the stitch pattern changes.</text>
+
+  <!-- ================= CELL 1: knit ================= -->
+  <g>
+    <rect x="24" y="88" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="124" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">KNIT</text>
+    <path d="M 88 148 L 124 208 L 160 148" fill="none" stroke="#3D405B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="124" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">A V on the right side</text>
+    <text x="124" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">A bump on the wrong side</text>
+    <text x="124" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6B6E76" text-anchor="middle">the basic stitch</text>
+  </g>
+
+  <!-- ================= CELL 2: purl ================= -->
+  <g>
+    <rect x="250" y="88" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="350" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">PURL</text>
+    <path d="M 314 208 A 36 30 0 0 1 386 208" fill="none" stroke="#3D405B" stroke-width="7" stroke-linecap="round"/>
+    <text x="350" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">A bump on the right side</text>
+    <text x="350" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">A V on the wrong side</text>
+    <text x="350" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6B6E76" text-anchor="middle">the same stitch, other side</text>
+  </g>
+
+  <!-- ================= CELL 3: stockinette ================= -->
+  <g>
+    <rect x="476" y="88" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="576" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">STOCKINETTE</text>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 522 142 L 530 160 L 538 142"/><path d="M 558 142 L 566 160 L 574 142"/><path d="M 594 142 L 602 160 L 610 142"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <path d="M 516 178 A 9 7 0 0 1 534 178"/><path d="M 552 178 A 9 7 0 0 1 570 178"/><path d="M 588 178 A 9 7 0 0 1 606 178"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 522 200 L 530 218 L 538 200"/><path d="M 558 200 L 566 218 L 574 200"/><path d="M 594 200 L 602 218 L 610 200"/>
+    </g>
+    <text x="576" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Knit 1, purl 1</text>
+    <text x="576" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#B23A48" text-anchor="middle">Curls at the edges</text>
+    <text x="576" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#6B6E76" text-anchor="middle">smooth, but never flat</text>
+  </g>
+
+  <!-- ================= CELL 4: garter ================= -->
+  <g>
+    <rect x="24" y="308" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="124" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">GARTER</text>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 70 362 L 80 380 L 90 362"/><path d="M 110 362 L 120 380 L 130 362"/><path d="M 150 362 L 160 380 L 170 362"/>
+      <path d="M 70 390 L 80 408 L 90 390"/><path d="M 110 390 L 120 408 L 130 390"/><path d="M 150 390 L 160 408 L 170 390"/>
+      <path d="M 70 418 L 80 436 L 90 418"/><path d="M 110 418 L 120 436 L 130 418"/><path d="M 150 418 L 160 436 L 170 418"/>
+    </g>
+    <text x="124" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Knit every row</text>
+    <text x="124" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#6A994E" text-anchor="middle">Lies flat</text>
+  </g>
+
+  <!-- ================= CELL 5: rib ================= -->
+  <g>
+    <rect x="250" y="308" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="350" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">1x1 RIB</text>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 296 362 L 306 380 L 316 362"/><path d="M 336 362 L 346 380 L 356 362"/><path d="M 376 362 L 386 380 L 396 362"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <path d="M 306 392 A 10 8 0 0 1 326 392"/><path d="M 346 392 A 10 8 0 0 1 366 392"/><path d="M 386 392 A 10 8 0 0 1 406 392"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 296 414 L 306 432 L 316 414"/><path d="M 336 414 L 346 432 L 356 414"/><path d="M 376 414 L 386 432 L 396 414"/>
+    </g>
+    <text x="350" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Knit 1, purl 1, every row</text>
+    <text x="350" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#6A994E" text-anchor="middle">Flat and very stretchy</text>
+  </g>
+
+  <!-- ================= CELL 6: seed ================= -->
+  <g>
+    <rect x="476" y="308" width="200" height="200" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <text x="576" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#22252A" text-anchor="middle">SEED</text>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 522 362 L 532 380 L 542 362"/><path d="M 594 362 L 604 380 L 614 362"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <path d="M 548 372 A 10 8 0 0 1 568 372"/><path d="M 578 372 A 10 8 0 0 1 598 372"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <path d="M 552 392 A 10 8 0 0 1 572 392"/><path d="M 582 392 A 10 8 0 0 1 602 392"/>
+    </g>
+    <g stroke="#3D405B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M 522 414 L 532 432 L 542 414"/><path d="M 594 414 L 604 432 L 614 414"/>
+    </g>
+    <text x="576" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Knit 1, purl 1, alternate</text>
+    <text x="576" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#6A994E" text-anchor="middle">Flat, bumpy, stretchy</text>
+  </g>
+
+  <text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A">The rule: balanced fabrics (garter, rib, seed) lie flat. Unbalanced ones curl.</text>
+</svg>

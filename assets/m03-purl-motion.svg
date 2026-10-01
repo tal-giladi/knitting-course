@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" width="680" height="360" role="img" aria-labelledby="t d">
+  <title id="t">The purl stitch in three moves</title>
+  <desc id="d">Three panels showing the purl stitch. First the right needle tip enters the front of the next stitch on the left needle, going in from the right, further in than a knit does. Then the working yarn is brought in front of the right needle, from the left-hand side of the work. Then the new loop is pulled through to the front of the work and the old stitch slides off.</desc>
+
+  <rect x="8" y="8" width="664" height="344" rx="10" fill="#FAF8F5" stroke="#D8D2C8" stroke-width="2"/>
+
+  <text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#22252A">The purl stitch, in three moves</text>
+  <text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6B6E76">Like a knit, but the yarn goes in front first.</text>
+
+  <!-- ============================ PANEL 1 ============================ -->
+  <g>
+    <rect x="40" y="86" width="186" height="224" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <circle cx="64" cy="108" r="13" fill="#7A5195"/>
+    <text x="64" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+
+    <line x1="66" y1="196" x2="176" y2="196" stroke="#2A6F97" stroke-width="7" stroke-linecap="round"/>
+    <text x="58" y="179" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#2A6F97">L</text>
+
+    <path d="M 80 196 L 80 213 A 13 13 0 0 0 106 213 L 106 196" fill="none" stroke="#3D405B" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 114 196 L 114 213 A 13 13 0 0 0 140 213 L 140 196" fill="none" stroke="#3D405B" stroke-width="4" stroke-linecap="round"/>
+
+    <line x1="222" y1="170" x2="120" y2="200" stroke="#C1502E" stroke-width="7" stroke-linecap="round"/>
+    <text x="220" y="160" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#C1502E">R</text>
+
+    <line x1="204" y1="152" x2="136" y2="192" stroke="#7A5195" stroke-width="3.5" stroke-linecap="round"/>
+    <polygon points="128,200 142,186 146,198" fill="#7A5195"/>
+    <text x="204" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A5195" text-anchor="end">in from the right,</text>
+    <text x="204" y="146" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A5195" text-anchor="end">deeper than a knit</text>
+
+    <text x="133" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Enter the front of</text>
+    <text x="133" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">the next stitch</text>
+  </g>
+
+  <!-- ============================ PANEL 2 ============================ -->
+  <g>
+    <rect x="247" y="86" width="186" height="224" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <circle cx="271" cy="108" r="13" fill="#7A5195"/>
+    <text x="271" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+
+    <line x1="273" y1="196" x2="383" y2="196" stroke="#2A6F97" stroke-width="7" stroke-linecap="round"/>
+    <text x="265" y="179" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#2A6F97">L</text>
+
+    <path d="M 287 196 L 287 213 A 13 13 0 0 0 313 213 L 313 196" fill="none" stroke="#3D405B" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 321 196 L 321 213 A 13 13 0 0 0 347 213 L 347 196" fill="none" stroke="#3D405B" stroke-width="4" stroke-linecap="round"/>
+
+    <line x1="429" y1="170" x2="327" y2="200" stroke="#C1502E" stroke-width="7" stroke-linecap="round"/>
+    <text x="427" y="160" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#C1502E">R</text>
+
+    <path d="M 429 176 C 400 188, 372 196, 348 198" fill="none" stroke="#6A994E" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M 352 200 C 336 206, 322 216, 314 228" fill="none" stroke="#6A994E" stroke-width="4.5" stroke-linecap="round"/>
+    <text x="427" y="150" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6A994E" text-anchor="end">yarn in front</text>
+
+    <path d="M 292 236 C 298 252, 314 258, 326 248" fill="none" stroke="#7A5195" stroke-width="3.5" stroke-linecap="round"/>
+    <polygon points="334,243 320,246 328,256" fill="#7A5195"/>
+
+    <text x="340" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Bring the yarn</text>
+    <text x="340" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">to the front</text>
+  </g>
+
+  <!-- ============================ PANEL 3 ============================ -->
+  <g>
+    <rect x="454" y="86" width="186" height="224" rx="8" fill="none" stroke="#D8D2C8" stroke-width="1.5"/>
+    <circle cx="478" cy="108" r="13" fill="#7A5195"/>
+    <text x="478" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+
+    <line x1="480" y1="198" x2="586" y2="198" stroke="#2A6F97" stroke-width="7" stroke-linecap="round"/>
+    <text x="472" y="181" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#2A6F97">L</text>
+
+    <path d="M 546 198 L 546 215 A 13 13 0 0 0 572 215 L 572 198" fill="none" stroke="#3D405B" stroke-width="4" stroke-linecap="round"/>
+
+    <line x1="636" y1="182" x2="596" y2="182" stroke="#C1502E" stroke-width="7" stroke-linecap="round"/>
+    <text x="634" y="162" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#C1502E">R</text>
+
+    <path d="M 596 182 L 596 199 A 13 13 0 0 0 622 199 L 622 182" fill="none" stroke="#6A994E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 624 182 L 624 199 A 13 13 0 0 0 650 199 L 650 182" fill="none" stroke="#6A994E" stroke-width="4" stroke-linecap="round"/>
+    <text x="636" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6A994E" text-anchor="end">a bump, not a V</text>
+
+    <path d="M 512 196 C 500 186, 500 170, 510 162" fill="none" stroke="#7A5195" stroke-width="3.5" stroke-linecap="round"/>
+    <polygon points="508,154 502,166 516,166" fill="#7A5195"/>
+    <text x="547" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A5195" text-anchor="middle">old stitch slides off</text>
+
+    <text x="547" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">Pull through to</text>
+    <text x="547" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#22252A" text-anchor="middle">the front, slide off</text>
+  </g>
+</svg>
